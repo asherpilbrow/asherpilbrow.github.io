@@ -1,0 +1,13 @@
+@font-face { font-family: 'sohne'; font-weight: normal; font-style: normal; src: url("../fonts/soehne-web-buch.woff") format("woff"); src: url("../fonts/soehne-web-buch.woff2") format("woff2"); }
+
+@font-face { font-family: 'sohne'; font-weight: bold; font-style: normal; src: url("../fonts/soehne-web-dreiviertelfett.woff") format("woff"); src: url("../fonts/soehne-web-dreiviertelfett.woff2") format("woff2"); }
+
+body { background: #E9E9E9; color: #000000; font-family: "sohne"; font-size: 24px; }
+
+h1 { font-family: 'sohne'; font-weight: bold; }
+
+a { color: #F95527; font-style: none; text-decoration: none; }
+
+a:visited { font-style: none; }
+
+/*# sourceMappingURL=main.css.map */
